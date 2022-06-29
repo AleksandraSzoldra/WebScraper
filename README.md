@@ -22,8 +22,12 @@ Etapy pracy nad projektem
 4. Zapisanie wszystkich opinii z listy do pliku .json
 5. Pobranie wszystkich opinii o produkcie i zapisanie ich na liście w postaci słowników
 6. Dodanie możliwości podania kodu produktu przez użytkownika
-7. Optymalizacja kodu a. utworzenie funkcji do ekstrakcji elementów strony b. utworzenie słownika selektorów c. użycie dictionary comprehension do pobrania składowych pojedynczej opinii na podstawie słownika selektorów
-8. Analiza pobranych opinii dla konkretnego produktu a. wyliczenie podstawowych statystyk: - liczba wszystkich opinii liczba opinii dla których podano zalety - liczba opinii dla których podano wady - średnia opcena produktu b. przygotowanie wykresów: - udział poszczególnych rekomendacji w ogólnej liczbie opinii - histogram występowania poszczególnych ocen 
+7. Optymalizacja kodu 
+    a. utworzenie funkcji do ekstrakcji elementów strony 
+    b. utworzenie słownika selektorów c. użycie dictionary comprehension do pobrania składowych pojedynczej opinii na podstawie słownika selektorów
+8. Analiza pobranych opinii dla konkretnego produktu 
+    a. wyliczenie podstawowych statystyk: - liczba wszystkich opinii liczba opinii dla których podano zalety - liczba opinii dla których podano wady - średnia opcena produktu 
+    b. przygotowanie wykresów: - udział poszczególnych rekomendacji w ogólnej liczbie opinii - histogram występowania poszczególnych ocen 
 
 Biblioteki: 
 
